@@ -1,478 +1,767 @@
 [
-    {
-        "coords": {
-            "A": {
-                "lat": 52.591249,
-                "lng": 19.65676
-            },
-            "B": {
-                "lat": 52.591162,
-                "lng": 19.662676
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.591162,
-                "lng": 19.662676
-            },
-            "B": {
-                "lat": 52.591099,
-                "lng": 19.668555
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.591099,
-                "lng": 19.668555
-            },
-            "B": {
-                "lat": 52.591033,
-                "lng": 19.673422
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.591033,
-                "lng": 19.673422
-            },
-            "B": {
-                "lat": 52.59094,
-                "lng": 19.679326
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.59094,
-                "lng": 19.679326
-            },
-            "B": {
-                "lat": 52.590859,
-                "lng": 19.685798
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.590859,
-                "lng": 19.685798
-            },
-            "B": {
-                "lat": 52.590774,
-                "lng": 19.690105
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.590774,
-                "lng": 19.690105
-            },
-            "B": {
-                "lat": 52.58903,
-                "lng": 19.690038
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.58903,
-                "lng": 19.690038
-            },
-            "B": {
-                "lat": 52.5891,
-                "lng": 19.685787
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.5891,
-                "lng": 19.685787
-            },
-            "B": {
-                "lat": 52.589189,
-                "lng": 19.679265
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.589189,
-                "lng": 19.679265
-            },
-            "B": {
-                "lat": 52.589268,
-                "lng": 19.673357
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.589268,
-                "lng": 19.673357
-            },
-            "B": {
-                "lat": 52.589324,
-                "lng": 19.668507
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.589324,
-                "lng": 19.668507
-            },
-            "B": {
-                "lat": 52.589424,
-                "lng": 19.662604
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.589424,
-                "lng": 19.662604
-            },
-            "B": {
-                "lat": 52.589486,
-                "lng": 19.656689
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.589486,
-                "lng": 19.656689
-            },
-            "B": {
-                "lat": 52.588421,
-                "lng": 19.656661
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.588421,
-                "lng": 19.656661
-            },
-            "B": {
-                "lat": 52.588336,
-                "lng": 19.662561
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.588336,
-                "lng": 19.662561
-            },
-            "B": {
-                "lat": 52.588233,
-                "lng": 19.668481
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.588233,
-                "lng": 19.668481
-            },
-            "B": {
-                "lat": 52.588161,
-                "lng": 19.673364
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.588161,
-                "lng": 19.673364
-            },
-            "B": {
-                "lat": 52.588083,
-                "lng": 19.679235
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.588083,
-                "lng": 19.679235
-            },
-            "B": {
-                "lat": 52.587996,
-                "lng": 19.685742
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.587996,
-                "lng": 19.685742
-            },
-            "B": {
-                "lat": 52.58799,
-                "lng": 19.69
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.58799,
-                "lng": 19.69
-            },
-            "B": {
-                "lat": 52.586199,
-                "lng": 19.689924
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.586199,
-                "lng": 19.689924
-            },
-            "B": {
-                "lat": 52.586252,
-                "lng": 19.685671
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.586252,
-                "lng": 19.685671
-            },
-            "B": {
-                "lat": 52.586353,
-                "lng": 19.679176
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.586353,
-                "lng": 19.679176
-            },
-            "B": {
-                "lat": 52.586424,
-                "lng": 19.673273
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.586424,
-                "lng": 19.673273
-            },
-            "B": {
-                "lat": 52.586507,
-                "lng": 19.668416
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.586507,
-                "lng": 19.668416
-            },
-            "B": {
-                "lat": 52.586565,
-                "lng": 19.662502
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.586565,
-                "lng": 19.662502
-            },
-            "B": {
-                "lat": 52.586653,
-                "lng": 19.656616
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    },
-    {
-        "coords": {
-            "A": {
-                "lat": 52.591249,
-                "lng": 19.65676
-            },
-            "B": {
-                "lat": 52.589486,
-                "lng": 19.656689
-            }
-        },
-        "isClosed": false,
-        "width": 5,
-        "height": 5,
-        "busStop": false,
-        "maxWeight": 10000
-    }
+   {
+      "coords": {
+         "A": {
+            "lat": 52.591248,
+            "lng": 19.65676
+         },
+         "B": {
+            "lat": 52.591164,
+            "lng": 19.662676
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.591164,
+            "lng": 19.662676
+         },
+         "B": {
+            "lat": 52.5911,
+            "lng": 19.668554
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.5911,
+            "lng": 19.668554
+         },
+         "B": {
+            "lat": 52.591034,
+            "lng": 19.673422
+         }
+      },
+      "isClosed": true,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.591034,
+            "lng": 19.673422
+         },
+         "B": {
+            "lat": 52.59094,
+            "lng": 19.679325
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.59094,
+            "lng": 19.679325
+         },
+         "B": {
+            "lat": 52.59086,
+            "lng": 19.685799
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.59086,
+            "lng": 19.685799
+         },
+         "B": {
+            "lat": 52.590775,
+            "lng": 19.690105
+         }
+      },
+      "isClosed": true,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.590775,
+            "lng": 19.690105
+         },
+         "B": {
+            "lat": 52.58903,
+            "lng": 19.690039
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58903,
+            "lng": 19.690039
+         },
+         "B": {
+            "lat": 52.5891,
+            "lng": 19.685787
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.5891,
+            "lng": 19.685787
+         },
+         "B": {
+            "lat": 52.589188,
+            "lng": 19.679264
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589188,
+            "lng": 19.679264
+         },
+         "B": {
+            "lat": 52.589268,
+            "lng": 19.673357
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589268,
+            "lng": 19.673357
+         },
+         "B": {
+            "lat": 52.589325,
+            "lng": 19.668507
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589325,
+            "lng": 19.668507
+         },
+         "B": {
+            "lat": 52.589424,
+            "lng": 19.662603
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589424,
+            "lng": 19.662603
+         },
+         "B": {
+            "lat": 52.589485,
+            "lng": 19.656689
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589485,
+            "lng": 19.656689
+         },
+         "B": {
+            "lat": 52.58842,
+            "lng": 19.65666
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58842,
+            "lng": 19.65666
+         },
+         "B": {
+            "lat": 52.588337,
+            "lng": 19.662561
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.588337,
+            "lng": 19.662561
+         },
+         "B": {
+            "lat": 52.588234,
+            "lng": 19.668482
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.588234,
+            "lng": 19.668482
+         },
+         "B": {
+            "lat": 52.58816,
+            "lng": 19.673365
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58816,
+            "lng": 19.673365
+         },
+         "B": {
+            "lat": 52.58808,
+            "lng": 19.679235
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58808,
+            "lng": 19.679235
+         },
+         "B": {
+            "lat": 52.587997,
+            "lng": 19.685741
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.587997,
+            "lng": 19.685741
+         },
+         "B": {
+            "lat": 52.58799,
+            "lng": 19.69
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58799,
+            "lng": 19.69
+         },
+         "B": {
+            "lat": 52.5862,
+            "lng": 19.689924
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.5862,
+            "lng": 19.689924
+         },
+         "B": {
+            "lat": 52.58625,
+            "lng": 19.68567
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58625,
+            "lng": 19.68567
+         },
+         "B": {
+            "lat": 52.586353,
+            "lng": 19.679176
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.586353,
+            "lng": 19.679176
+         },
+         "B": {
+            "lat": 52.586426,
+            "lng": 19.673273
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.586426,
+            "lng": 19.673273
+         },
+         "B": {
+            "lat": 52.586506,
+            "lng": 19.668415
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.586506,
+            "lng": 19.668415
+         },
+         "B": {
+            "lat": 52.586563,
+            "lng": 19.662502
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.586563,
+            "lng": 19.662502
+         },
+         "B": {
+            "lat": 52.586655,
+            "lng": 19.656616
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.591248,
+            "lng": 19.65676
+         },
+         "B": {
+            "lat": 52.589485,
+            "lng": 19.656689
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.5911,
+            "lng": 19.668554
+         },
+         "B": {
+            "lat": 52.589325,
+            "lng": 19.668507
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.591164,
+            "lng": 19.662676
+         },
+         "B": {
+            "lat": 52.589424,
+            "lng": 19.662603
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.591034,
+            "lng": 19.673422
+         },
+         "B": {
+            "lat": 52.589268,
+            "lng": 19.673357
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.59094,
+            "lng": 19.679325
+         },
+         "B": {
+            "lat": 52.589188,
+            "lng": 19.679264
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.59086,
+            "lng": 19.685799
+         },
+         "B": {
+            "lat": 52.5891,
+            "lng": 19.685787
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589424,
+            "lng": 19.662603
+         },
+         "B": {
+            "lat": 52.588337,
+            "lng": 19.662561
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589325,
+            "lng": 19.668507
+         },
+         "B": {
+            "lat": 52.588234,
+            "lng": 19.668482
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589268,
+            "lng": 19.673357
+         },
+         "B": {
+            "lat": 52.58816,
+            "lng": 19.673365
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.589188,
+            "lng": 19.679264
+         },
+         "B": {
+            "lat": 52.58808,
+            "lng": 19.679235
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.5891,
+            "lng": 19.685787
+         },
+         "B": {
+            "lat": 52.587997,
+            "lng": 19.685741
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58903,
+            "lng": 19.690039
+         },
+         "B": {
+            "lat": 52.58799,
+            "lng": 19.69
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58842,
+            "lng": 19.65666
+         },
+         "B": {
+            "lat": 52.586655,
+            "lng": 19.656616
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.588337,
+            "lng": 19.662561
+         },
+         "B": {
+            "lat": 52.586563,
+            "lng": 19.662502
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.588234,
+            "lng": 19.668482
+         },
+         "B": {
+            "lat": 52.586506,
+            "lng": 19.668415
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58816,
+            "lng": 19.673365
+         },
+         "B": {
+            "lat": 52.586426,
+            "lng": 19.673273
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.58808,
+            "lng": 19.679235
+         },
+         "B": {
+            "lat": 52.586353,
+            "lng": 19.679176
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   },
+   {
+      "coords": {
+         "A": {
+            "lat": 52.587997,
+            "lng": 19.685741
+         },
+         "B": {
+            "lat": 52.58625,
+            "lng": 19.68567
+         }
+      },
+      "isClosed": false,
+      "width": 5,
+      "height": 5,
+      "busStop": false,
+      "maxWeight": 10000
+   }
 ]

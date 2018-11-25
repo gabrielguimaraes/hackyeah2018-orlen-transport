@@ -9,14 +9,14 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class PathEdge extends DefaultEdge {
+public class RoadEdge extends DefaultEdge {
 	private static final long serialVersionUID = 7768442632249685748L;
 
-	private PathMeasures pathMeasures;
+	private RoadMeasures roadMeasures;
 
 	@Override
 	public String toString() {
-		return pathMeasures.getId().toString();
+		return roadMeasures.getId().toString();
 	}
 
 	@Override
@@ -26,7 +26,7 @@ public class PathEdge extends DefaultEdge {
 
 	@Override
 	public boolean equals(Object obj) {
-		return (obj instanceof PathMeasures) && (toString().equals(obj.toString()));
+		return (obj instanceof RoadEdge) && (toString().equals(obj.toString()));
 	}
 
 }

@@ -15,11 +15,11 @@ public interface RoadPathRepository extends JpaRepository<RoadPath, Long> {
 	
 	@Query("SELECT r FROM RoadPath r "
 			+ " WHERE "
-			+ " r.width < :width "
-			+ " OR r.maxWeight < :weight "
-			+ " OR r.height < :height "
-			+ " OR r.closed = true ")
-	public Set<RoadPath> findIdWhereWidthGreatherThanOrWeightGreaterThanOrHeightGreaterThanOrIsClosed(
+			+ " r.width >= :width "
+			+ " AND r.maxWeight >= :weight "
+			+ " AND r.height >= :height "
+			+ " AND r.closed != true ")
+	public Set<RoadPath> findIdWhereWidthGreatherThanAndWeightGreaterThanAndHeightGreaterThanAndIsNotClosed(
 			@Param("width") BigDecimal width,
 			@Param("weight") BigDecimal weight,
 			@Param("height") BigDecimal height);

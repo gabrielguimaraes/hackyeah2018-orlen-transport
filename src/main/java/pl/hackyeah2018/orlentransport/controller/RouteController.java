@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import pl.hackyeah2018.orlentransport.domain.Coordinate;
+import pl.hackyeah2018.orlentransport.graph.RoadVertex;
 import pl.hackyeah2018.orlentransport.service.RouteService;
 
 @RestController
@@ -22,7 +24,7 @@ public class RouteController {
 	}
 
 	@GetMapping("/vehicles/{vehicleId}/from/{coordinateFromId}/to/{coordinateToId}")
-	public List<List<Long>> getRoute(@PathVariable("vehicleId") Long vehicleId,
+	public List<List<Coordinate>> getRoute(@PathVariable("vehicleId") Long vehicleId,
 			@PathVariable("coordinateFromId") Long coordinateFromId,
 			@PathVariable("coordinateToId") Long coordinateToId) {
 		
